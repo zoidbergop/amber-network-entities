@@ -511,6 +511,8 @@ github.com/oasisprotocol/oasis-core/go v0.0.0-20200602155041-d0a8e24f1a02 h1:o2Y
 github.com/oasisprotocol/oasis-core/go v0.0.0-20200602155041-d0a8e24f1a02/go.mod h1:MMukwyVxq9VElaAAE7A6TfJN5nnT5DxcZFUGgSDFCeM=
 github.com/oasisprotocol/oasis-core/go v0.0.0-20200603183914-0a2bffe14bd2 h1:KYNA9SpI1fMPGH5+yzPI2LvzBZz9RDvVb4qLe+0L6HI=
 github.com/oasisprotocol/oasis-core/go v0.0.0-20200603183914-0a2bffe14bd2/go.mod h1:h9hAwLpyEwlWd+5k89l2/hJqHVMVZ28DYGHZE0N4oJ0=
+github.com/oasisprotocol/oasis-core/go v0.0.0-20200611140441-8ee232fafeaf h1:arbAueetO4wh7xJn9LB8lr9hegRnEXzaHZrASyXrytI=
+github.com/oasisprotocol/oasis-core/go v0.0.0-20200611140441-8ee232fafeaf/go.mod h1:h9hAwLpyEwlWd+5k89l2/hJqHVMVZ28DYGHZE0N4oJ0=
 github.com/oklog/oklog v0.3.2/go.mod h1:FCV+B7mhrz4o+ueLpx+KqkyXRGMWOYEvfiXtdGtbWGs=
 github.com/oklog/run v1.0.0/go.mod h1:dlhp/R75TPv97u0XWUtDeV/lRKWPKSdTuV0TZvrmrQA=
 github.com/oklog/ulid v1.3.1/go.mod h1:CirwcVhetQ6Lv90oh/F+FBtV6XMibvdAFo93nm5qn4U=
